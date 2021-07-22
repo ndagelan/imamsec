@@ -17,6 +17,7 @@ I'm also learning to build machine learning softwares and systems. I'm also lear
 
 Contact me by:
 
+- [<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png">](http://google.com.au/)
 - Email: [renovamenzxh@gmail.com](mailto:renovamenzxh@gmail.com) / [xiaohan.zou@foxmail.com](mailto:xiaohan.zou@foxmail.com)
 - Github: [@Renovamen](https://github.com/Renovamen)
 - [Linkedin](https://www.linkedin.com/in/xiaohan-zou)
