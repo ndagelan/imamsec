@@ -23,7 +23,7 @@ Contact me by:
 - 知乎: [@Renovamen](https://www.zhihu.com/people/chao-neng-gui-su)
 - Blog: [zxh.io](https://zxh.io)
 
-<img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
+![alt text](https://i.postimg.cc/Z5BbpzGt/unnamed-2-1.gif)
 
 ## Résumé
 
