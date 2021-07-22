@@ -15,15 +15,13 @@ const websites: WebsitesData = {
         id: "my-github",
         title: "Github",
         img: "img/sites/github.svg",
-        link: "https://github.com/Renovamen",
-        inner: true
+        link: "https://github.com/Renovamen"
       },
       {
         id: "my-linkedin",
         title: "Linkedin",
         img: "img/sites/linkedin.svg",
-        link: "https://www.linkedin.com/in/xiaohan-zou",
-        inner: true
+        link: "https://www.linkedin.com/in/xiaohan-zou"
       },
       {
         id: "my-zhihu",
