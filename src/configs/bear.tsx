@@ -59,7 +59,7 @@ const bear: BearData[] = [
         icon: <HiFire />,
         excerpt: "A deep learning framework implemented in Numpy...",
         link: "https://github.com/Renovamen/flint"
-      },
+      }
     ]
   }
 ];
