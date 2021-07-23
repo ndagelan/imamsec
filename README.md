@@ -22,27 +22,6 @@
 <br/>
 <br/>
 
-
-<p align="center">
-  <img src="https://gpvc.arturio.dev/ndagelan" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •    -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ndagelan?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/ndagelan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
-
-<p align="center">
-  <a href="https://archiveprogram.github.com/">
-    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
-  </a>
-</p>
-
-
-<div align="center">
-
-### 𝚂𝚑𝚘𝚠 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-</div>
-
 #
 
 ![footer](https://www.kibrispdr.org/data/nancy-momoland-wallpaper-25.jpg)
