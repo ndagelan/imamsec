@@ -33,13 +33,19 @@ const websites: WebsitesData = {
         id: "my-facebook",
         title: "Facebook",
         img: "img/sites/facebook.svg",
-        link: "https://www.facebook.com/renovamen.zou"
+        link: "https://www.facebook.com/imam.walks"
+      },
+      {
+        id: "my-instagram",
+        title: "Instagram",
+        img: "img/sites/Instagram.svg",
+        link: "https://www.instagram.com/imam_walks/"
       },
       {
         id: "my-email",
         title: "Email",
         img: "img/sites/gmail.svg",
-        link: "mailto:renovamenzxh@gmail.com"
+        link: "mailto:syechrulimam@gmail.com"
       }
     ]
   },
