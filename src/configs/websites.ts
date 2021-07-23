@@ -15,13 +15,7 @@ const websites: WebsitesData = {
         id: "my-github",
         title: "Github",
         img: "img/sites/github.svg",
-        link: "https://github.com/Renovamen"
-      },
-      {
-        id: "my-linkedin",
-        title: "Linkedin",
-        img: "img/sites/linkedin.svg",
-        link: "https://www.linkedin.com/in/xiaohan-zou"
+        link: "https://github.com/ndagelan"
       },
       {
         id: "my-facebook",
@@ -53,28 +47,10 @@ const websites: WebsitesData = {
         link: "https://github.com/"
       },
       {
-        id: "bilibili",
-        title: "Bilibili",
-        img: "img/sites/bilibili.svg",
-        link: "https://www.bilibili.com/"
-      },
-      {
         id: "pinterest",
         title: "Pinterest",
         img: "img/sites/pinterest.svg",
         link: "https://www.pinterest.com/"
-      },
-      {
-        id: "dribbble",
-        title: "Dribbble",
-        img: "img/sites/dribbble.svg",
-        link: "https://dribbble.com/"
-      },
-      {
-        id: "arxiv",
-        title: "arXiv",
-        img: "img/sites/arxiv.png",
-        link: "https://arxiv.org/"
       },
       {
         id: "Tokopedia",
