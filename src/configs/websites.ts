@@ -53,7 +53,6 @@ const websites: WebsitesData = {
         link: "https://github.com/"
       },
       {
-      {
         id: "bilibili",
         title: "Bilibili",
         img: "img/sites/bilibili.svg",
