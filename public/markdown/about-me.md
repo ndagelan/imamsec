@@ -2,7 +2,7 @@
 
 ## Biography
 
-Hey there! I'm an Angel lost in human world :laughing: now an College Student Bachelor Informatics at [Amikom University](https://amikom.ac.id/) and a research assistant at Peking University. Before that, I got my bachelor's degree in [Software Engineering](http://sse.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/).
+Hey there! I'm an Angel lost in human world 😊 now an College Student Bachelor Informatics at [Amikom University](https://amikom.ac.id/) and a research assistant at Peking University. Before that, I got my bachelor's degree in [Software Engineering](http://sse.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/).
 
 
 ## Contact
