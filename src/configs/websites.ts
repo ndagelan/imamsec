@@ -24,12 +24,6 @@ const websites: WebsitesData = {
         link: "https://www.linkedin.com/in/xiaohan-zou"
       },
       {
-        id: "my-zhihu",
-        title: "知乎",
-        img: "img/sites/zhihu.jpeg",
-        link: "https://www.zhihu.com/people/chao-neng-gui-su"
-      },
-      {
         id: "my-facebook",
         title: "Facebook",
         img: "img/sites/facebook.svg",
