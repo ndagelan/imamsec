@@ -1,4 +1,4 @@
-import { FaPaw } from "react-icons/fa";
+import { FaPaw, FaVuejs } from "react-icons/fa";
 import {
   GiNinjaHeroicStance
 } from "react-icons/gi";
