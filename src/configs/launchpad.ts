@@ -44,12 +44,6 @@ const launchpadApps: LaunchpadData[] = [
     link: "https://cube.zxh.io/"
   },
   {
-    id: "resume",
-    title: "Résumé",
-    img: "img/icons/launchpad/resume.png",
-    link: "https://resume.zxh.io/"
-  },
-  {
     id: "zelda",
     title: "Webpage for Zelda",
     img: "img/icons/launchpad/zelda.png",
