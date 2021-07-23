@@ -2,7 +2,7 @@
 
 ## Biography
 
-Hey there! I'm ~~a dragon lost in human world~~ now an incoming computer science master student at [Boston University](https://www.bu.edu/) and a research assistant at Peking University. Before that, I got my bachelor's degree in [Software Engineering](http://sse.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/).
+Hey there! I'm ~~a Angel lost in human world~~ now an incoming computer science master student at [Boston University](https://www.bu.edu/) and a research assistant at Peking University. Before that, I got my bachelor's degree in [Software Engineering](http://sse.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/).
 
 I'm trying to find a balance between research and engineering.
 
@@ -14,8 +14,6 @@ I'm also learning to build machine learning softwares and systems. I'm also lear
 
 
 ## Contact
-
-Contact me by:
 
 - Email: [syechrulimam@gmail.com](mailto:syechrulimam@gmail.com) / [xiaohan.zou@foxmail.com](mailto:xiaohan.zou@foxmail.com)
 - Github: [@Renovamen](https://github.com/Renovamen)
