@@ -8,7 +8,7 @@ Hey there! I'm an Angel lost in human world 😊 now an College Student Bachelor
 ## Contact
 
 - Email: [syechrulimam@gmail.com](mailto:syechrulimam@gmail.com)
-- Github: [@Renovamen](https://github.com/ndagelan)
+- Github: [@ndagelan](https://github.com/ndagelan)
 - [Instagram](https://www.instagram.com/imam_walks/)
 - Blog: [https://imamsec.org](https://imamsec.org)
 
