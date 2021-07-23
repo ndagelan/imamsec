@@ -1,9 +1,9 @@
 import { MusicData } from "../types";
 
 const music: MusicData = {
-  title: "Sunflower",
+  title: "Aku Ikhlas",
   artist: "Denny Caknan ft. Happy Asmara",
-  cover: "//https://i.ytimg.com/vi/1WLWXRgOB88/maxresdefault.jpg",
+  cover: "https://i.ytimg.com/vi/1WLWXRgOB88/maxresdefault.jpg",
   audio: "music/akuikhlas.mp3"
 };
 
