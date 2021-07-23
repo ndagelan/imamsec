@@ -4,7 +4,7 @@ const music: MusicData = {
   title: "Sunflower",
   artist: "Denny Caknan ft. Happy Asmara",
   cover: "//https://i.ytimg.com/vi/1WLWXRgOB88/maxresdefault.jpg",
-  audio: "music/sunflower.mp3"
+  audio: "music/akuikhlas.mp3"
 };
 
 export default music;
