@@ -1,7 +1,5 @@
-import { FaPaw, FaVuejs } from "react-icons/fa";
-import {
-  GiNinjaHeroicStance
-} from "react-icons/gi";
+import { FaPaw } from "react-icons/fa";
+import { GiNinjaHeroicStance } from "react-icons/gi";
 import { VscGithub } from "react-icons/vsc";
 import { GoRepo, GoBrowser } from "react-icons/go";
 
