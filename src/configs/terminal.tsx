@@ -68,44 +68,33 @@ const terminal: TerminalData[] = [
               Github:{" "}
               <a
                 className="text-blue-300"
-                href="https://github.com/Renovamen"
+                href="https://github.com/ndagelan"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://github.com/Renovamen
+                https://github.com/ndagelan
               </a>
             </li>
             <li>
-              Linkedin:{" "}
+              Instagram:{" "}
               <a
                 className="text-blue-300"
-                href="https://www.linkedin.com/in/xiaohan-zou"
+                href="https://www.instagram.com/imam_walks"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://www.linkedin.com/in/xiaohan-zou
+                https://www.instagram.com/imam_walks
               </a>
             </li>
             <li>
               Blog:{" "}
               <a
                 className="text-blue-300"
-                href="https://zxh.io"
+                href="https://imamsec.org"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://zxh.io
-              </a>
-            </li>
-            <li>
-              知乎:{" "}
-              <a
-                className="text-blue-300"
-                href="https://www.zhihu.com/people/chao-neng-gui-su"
-                target="_blank"
-                rel="noreferrer"
-              >
-                https://www.zhihu.com/people/chao-neng-gui-su
+                https://imamsec.org
               </a>
             </li>
           </ul>
