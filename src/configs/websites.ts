@@ -53,11 +53,6 @@ const websites: WebsitesData = {
         link: "https://github.com/"
       },
       {
-        id: "zhihu",
-        title: "知乎",
-        img: "img/sites/zhihu.jpeg",
-        link: "https://www.zhihu.com/"
-      },
       {
         id: "bilibili",
         title: "Bilibili",
@@ -83,77 +78,10 @@ const websites: WebsitesData = {
         link: "https://arxiv.org/"
       },
       {
-        id: "gmail",
-        title: "Gmail",
-        img: "img/sites/gmail.svg",
-        link: "https://mail.google.com/"
-      },
-      {
-        id: "leetcode",
-        title: "LeetCode",
-        img: "img/sites/leetcode.svg",
-        link: "https://leetcode.com/"
-      },
-      {
-        id: "v2ex",
-        title: "V2EX",
-        img: "https://www.v2ex.com/apple-touch-icon.png",
-        link: "https://www.v2ex.com/"
-      },
-      {
-        id: "reddit",
-        title: "Reddit",
-        img: "img/sites/reddit.svg",
-        link: "https://www.reddit.com/"
-      },
-      {
-        id: "hacker-news",
-        title: "Hacker News",
-        img: "img/sites/hacker.svg",
-        link: "https://news.ycombinator.com/"
-      },
-      {
-        id: "astral",
-        title: "Astral",
-        img: "img/sites/astral.svg",
-        link: "https://app.astralapp.com/"
-      },
-      {
-        id: "gitee",
-        title: "Gitee",
-        // img: "https://gitee.com/static/images/logo-en.svg",
-        img: "img/sites/gitee.svg",
-        link: "https://gitee.com/"
-      },
-      {
-        id: "aideadline",
-        title: "AI Deadlines",
-        img: "https://aideadlin.es/static/img/favicon.png",
-        link: "https://aideadlin.es/",
-        inner: true
-      },
-      {
-        id: "nazo",
-        title: "Nazo",
-        link: "https://nazo.one-story.cn"
-      },
-      {
-        id: "svgomg",
-        title: "SVGOMG",
-        img: "https://jakearchibald.github.io/svgomg/imgs/icon.png",
-        link: "https://jakearchibald.github.io/svgomg/"
-      },
-      {
-        id: "oh-vue-icons",
-        title: "Vue Icons!",
-        img: "img/sites/oh-vue-icons.svg",
-        link: "https://oh-vue-icons.netlify.app/"
-      },
-      {
-        id: "tiny-png",
-        title: "Tiny PNG",
-        img: "https://tinypng.com/images/panda-chewing-2x.png",
-        link: "https://tinypng.com/"
+        id: "Tokopedia",
+        title: "Tokopedia",
+        img: "img/sites/Tokopedia.svg",
+        link: "https://tokopedia.com/"
       }
     ]
   }
