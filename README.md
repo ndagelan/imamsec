@@ -1,41 +1,13 @@
-# playground-macos
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+  𝐇𝐞𝐥𝐥𝐨, Everyone
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+  </a>
+</h1>
 
-My portfolio website simulating macOS's GUI: https://portfolio.zxh.io
+![footer](https://www.kibrispdr.org/data/nancy-momoland-wallpaper-25.jpg)
 
-Powered by [React](https://reactjs.org/) + [React Redux](https://react-redux.js.org/) + [Tailwind CSS](https://tailwindcss.com/) + [TypeScript](https://www.typescriptlang.org/).
-
-![day](./public/screenshots/day.png)
-![night](./public/screenshots/night.png)
-
-
-&nbsp;
-
-## Usage
-
-```bash
-yarn install
-
-# serve with hot reload, open http://localhost:3000 to view it in the browser
-yarn dev
-
-# build for production with minification to the `build` folder
-yarn build
-```
-
-
-&nbsp;
-
-## Credits
-
-- [macOS Big Sur](https://www.apple.com/in/macos/big-sur/)
-- [macOS Catalina](https://www.apple.com/bw/macos/catalina/)
-- [macOS Icon Gallery](https://www.macosicongallery.com/)
-- [sindresorhus/file-icon-cli](https://github.com/sindresorhus/file-icon-cli)
-- [vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io)
-
-
-&nbsp;
-
-## License
-
-[MIT](MIT)
+**Last Edited on**: 19/07/2021
