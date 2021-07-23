@@ -92,7 +92,7 @@ const bear: BearData[] = [
           "https://raw.githubusercontent.com/Renovamen/playground-macos/main/README.md",
         icon: <RiGamepadLine />,
         excerpt: "My portfolio website simulating macOS's GUI...",
-        link: "https://github.com/Renovamen/playground-macos"
+        link: "https://github.com/ndagelan/imamsec"
       },
       {
         id: "oh-vue-icons",
