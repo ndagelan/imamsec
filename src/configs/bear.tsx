@@ -43,7 +43,7 @@ const bear: BearData[] = [
         file: "markdown/about-site.md",
         icon: <GoBrowser />,
         excerpt: "Something about this personal portfolio site..."
-      }
+      },
       {
         id: "about-site",
         title: "Galery",
