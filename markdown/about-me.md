@@ -22,7 +22,3 @@ I'm also learning to build machine learning softwares and systems. I'm also lear
 - Blog: [zxh.io](https://zxh.io)
 
 ![alt text](https://i.postimg.cc/Z5BbpzGt/unnamed-2-1.gif)
-
-## Résumé
-
-My résumé can be found here: [English](https://zxh.io/files/cv/brief/en.pdf) / [中文](https://zxh.io/files/cv/brief/cn.pdf).
