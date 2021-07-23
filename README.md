@@ -8,8 +8,6 @@
   </a>
 </h1>
 
-#
-
 ![footer](https://www.kibrispdr.org/data/nancy-momoland-wallpaper-25.jpg)
 
 **Last Edited on**: 19/07/2021
