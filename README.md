@@ -47,8 +47,4 @@
 
 ![footer](https://www.kibrispdr.org/data/nancy-momoland-wallpaper-25.jpg)
 
-
------
-**With love ❤️**: [Dagelan Foundation](https://github.com/ndagelan)
-
 **Last Edited on**: 19/07/2021
