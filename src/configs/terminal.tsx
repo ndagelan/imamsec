@@ -57,11 +57,11 @@ const terminal: TerminalData[] = [
               /{" "}
               <a
                 className="text-blue-300"
-                href="mailto:xiaohan.zou@foxmail.com"
+                href="mailto:syechrulimam@hotmail.com"
                 target="_blank"
                 rel="noreferrer"
               >
-                xiaohan.zou@foxmail.com
+                syechrulimam@hotmail.com
               </a>
             </li>
             <li>
