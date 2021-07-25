@@ -1,7 +1,7 @@
 import { FaPaw, FaGithubSquare } from "react-icons/fa";
-import { GiNinjaHeroicStance } from "react-icons/gi";
 import { GoRepo } from "react-icons/go";
 import { FcGallery, FcAbout } from "react-icons/fc";
+import { SiAboutDotMe } from "react-icons/si";
 
 import { BearData } from "../types";
 
@@ -15,7 +15,7 @@ const bear: BearData[] = [
         id: "about-me",
         title: "About Me",
         file: "markdown/about-me.md",
-        icon: <GiNinjaHeroicStance />,
+        icon: <SiAboutDotMe />,
         excerpt: "Hey there! I'm a angel lost in human world..."
       },
       {
