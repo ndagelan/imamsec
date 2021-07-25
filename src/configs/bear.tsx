@@ -2,6 +2,7 @@ import { FaPaw, FaGithubSquare } from "react-icons/fa";
 import { GoRepo } from "react-icons/go";
 import { FcGallery, FcAbout } from "react-icons/fc";
 import { SiAboutDotMe } from "react-icons/si";
+import { GiPisces } from "react-icons/gi";
 
 import { BearData } from "../types";
 
@@ -50,7 +51,7 @@ const bear: BearData[] = [
         id: "Pisces DEX",
         title: "Pisces DEX",
         file: "markdown/galery.md",
-        icon: <FcGallery />,
+        icon: <GiPisces />,
         excerpt: "Pisces Dex Project Foundation..."
       } 
     ]
