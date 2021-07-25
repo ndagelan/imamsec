@@ -8,8 +8,10 @@ Hey there! I'm an Angel lost in human world 😊 now an College Student Bachelor
 ## Contact
 
 - Email: [syechrulimam@gmail.com](mailto:syechrulimam@gmail.com)
-- Github: [@ndagelan](https://github.com/ndagelan)
+- Github: [@ndagelan](https://github.com/ndagelan)  
 - [Instagram](https://www.instagram.com/imam_walks/)
 - Blog: [imamsec.org](https://imamsec.org)
 
-![alt text](https://i.postimg.cc/Z5BbpzGt/unnamed-2-1.gif)
+## I'M A PISCES
+
+![alt text](https://imamsec.org/img/galery/pisces.png)
