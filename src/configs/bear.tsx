@@ -1,8 +1,8 @@
 import { FaPaw } from "react-icons/fa";
 import { GiNinjaHeroicStance } from "react-icons/gi";
 import { VscGithub } from "react-icons/vsc";
-import { GoRepo, GoBrowser } from "react-icons/go";
-import { FcGallery } from "react-icons/fc";
+import { GoRepo } from "react-icons/go";
+import { FcGallery, FcAbout } from "react-icons/fc";
 
 import { BearData } from "../types";
 
@@ -30,7 +30,7 @@ const bear: BearData[] = [
         id: "about-site",
         title: "About This Site",
         file: "markdown/about-site.md",
-        icon: <GoBrowser />,
+        icon: <FcAbout />,
         excerpt: "Something about this personal portfolio site..."
       },
       {
