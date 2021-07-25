@@ -1,5 +1,5 @@
 import { FaPaw, FaGithubSquare } from "react-icons/fa";
-import { GoRepo } from "react-icons/go";
+import { GoRepo, GoProject } from "react-icons/go";
 import { FcGallery, FcAbout } from "react-icons/fc";
 import { SiAboutDotMe } from "react-icons/si";
 
@@ -50,7 +50,7 @@ const bear: BearData[] = [
         id: "about-pisces",
         title: "Pisces DEX",
         file: "markdown/about-pisces.md",
-        icon: <SiAboutDotMe />,
+        icon: <GoProject />,
         excerpt: "Pisces DEX is Decentralized..."
       }
     ]
