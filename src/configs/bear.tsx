@@ -53,8 +53,7 @@ const bear: BearData[] = [
         file: "markdown/about-pisces.md",
         icon: <SiAboutDotMe />,
         excerpt: "Hey there! I'm a angel lost in human world..."
-      },
-
+      }
     ]
   },
 ];
