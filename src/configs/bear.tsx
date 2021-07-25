@@ -45,7 +45,15 @@ const bear: BearData[] = [
     id: "project",
     title: "Projects",
     icon: <GoRepo />,
-    md: []
+    md: [
+      {
+        id: "Pisces DEX",
+        title: "Pisces DEX",
+        file: "markdown/galery.md",
+        icon: <FcGallery />,
+        excerpt: "Pisces Dex Project Foundation..."
+      } 
+    ]
   }
 ];
 
