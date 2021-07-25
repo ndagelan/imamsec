@@ -47,11 +47,11 @@ const bear: BearData[] = [
     icon: <GoRepo />,
     md: [
       {
-        id: "about-me",
-        title: "About Me",
+        id: "about-pisces",
+        title: "Pisces DEX",
         file: "markdown/about-pisces.md",
         icon: <SiAboutDotMe />,
-        excerpt: "Hey there! I'm a angel lost in human world..."
+        excerpt: "Pisces DEX is Decentralized..."
       }
     ]
   }
