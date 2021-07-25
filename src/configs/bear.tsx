@@ -35,7 +35,7 @@ const bear: BearData[] = [
       },
       {
         id: "about-galery",
-        title: "Galery",
+        title: "Gallery",
         file: "markdown/galery.md",
         icon: <FcGallery />,
         excerpt: "About galery of this personal portfolio site..."
