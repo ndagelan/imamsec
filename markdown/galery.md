@@ -1,4 +1,4 @@
-# Galery
+# Gallery
 
 ## I'M A PISCES
 
