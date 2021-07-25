@@ -46,7 +46,6 @@ const bear: BearData[] = [
     title: "Projects",
     icon: <GoRepo />,
     md: [
-
       {
         id: "about-me",
         title: "About Me",
@@ -55,7 +54,7 @@ const bear: BearData[] = [
         excerpt: "Hey there! I'm a angel lost in human world..."
       }
     ]
-  },
+  }
 ];
 
 export default bear;
