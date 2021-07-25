@@ -58,7 +58,7 @@ const launchpadApps: LaunchpadData[] = [
   {
     id: "Discord",
     title: "Discord",
-    img: "img/icons/launchpad/fishmail.png",
+    img: "img/icons/launchpad/discord.png",
     link: "https://fishmail.vercel.app/"
   }
 ];
