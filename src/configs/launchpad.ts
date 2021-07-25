@@ -56,8 +56,8 @@ const launchpadApps: LaunchpadData[] = [
     link: "https://zelda.zxh.io/"
   },
   {
-    id: "fishmail",
-    title: "Fishmail",
+    id: "Discord",
+    title: "Discord",
     img: "img/icons/launchpad/fishmail.png",
     link: "https://fishmail.vercel.app/"
   }
