@@ -1,6 +1,5 @@
-import { FaPaw } from "react-icons/fa";
+import { FaPaw, FaGithubSquare } from "react-icons/fa";
 import { GiNinjaHeroicStance } from "react-icons/gi";
-import { VscGithub } from "react-icons/vsc";
 import { GoRepo } from "react-icons/go";
 import { FcGallery, FcAbout } from "react-icons/fc";
 
@@ -23,7 +22,7 @@ const bear: BearData[] = [
         id: "github-stats",
         title: "Github Stats",
         file: "markdown/github-stats.md",
-        icon: <VscGithub />,
+        icon: <FaGithubSquare />,
         excerpt: "Here are some status about my github account..."
       },
       {
