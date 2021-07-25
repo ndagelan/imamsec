@@ -45,8 +45,18 @@ const bear: BearData[] = [
     id: "project",
     title: "Projects",
     icon: <GoRepo />,
-    md: []
-  }
+    md: [
+
+      {
+        id: "about-me",
+        title: "About Me",
+        file: "markdown/about-pisces.md",
+        icon: <SiAboutDotMe />,
+        excerpt: "Hey there! I'm a angel lost in human world..."
+      },
+
+    ]
+  },
 ];
 
 export default bear;
