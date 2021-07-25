@@ -320,7 +320,7 @@ export default class Terminal extends Component<{}, TerminalState> {
       } else {
         this.generateResultRow(
           this.curInputTimes,
-          <span>{`zsh: command not found: ${cmd}`}</span>
+          <span>{`imamsec: command not found: ${cmd}`}</span>
         );
       }
 
