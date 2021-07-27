@@ -2,6 +2,7 @@ import { FaPaw, FaGithubSquare } from "react-icons/fa";
 import { GoRepo, GoProject } from "react-icons/go";
 import { FcGallery, FcAbout } from "react-icons/fc";
 import { SiAboutDotMe } from "react-icons/si";
+import { MdStore } from "react-icons/md";
 
 import { BearData } from "../types";
 
@@ -57,7 +58,7 @@ const bear: BearData[] = [
         id: "about-clideper",
         title: "Clideper NFT",
         file: "markdown/about-pisces.md",
-        icon: <GoProject />,
+        icon: <MdStore />,
         excerpt: "Clideper NFT is Marketplace Decentralized..."
       }
     ]
