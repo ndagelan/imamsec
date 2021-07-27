@@ -57,7 +57,7 @@ const bear: BearData[] = [
       {
         id: "about-clideper",
         title: "Clideper NFT",
-        file: "markdown/about-pisces.md",
+        file: "markdown/about-clideper.md",
         icon: <MdStore />,
         excerpt: "Clideper NFT is Marketplace Decentralized..."
       }
