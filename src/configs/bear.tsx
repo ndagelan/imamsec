@@ -52,6 +52,13 @@ const bear: BearData[] = [
         file: "markdown/about-pisces.md",
         icon: <GoProject />,
         excerpt: "Pisces DEX is Decentralized..."
+      },
+      {
+        id: "about-clideper",
+        title: "Clideper NFT",
+        file: "markdown/about-pisces.md",
+        icon: <GoProject />,
+        excerpt: "Clideper NFT is Marketplace Decentralized..."
       }
     ]
   }
