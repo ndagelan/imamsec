@@ -1,6 +1,6 @@
 ---
 title: 'Depressed over 5 years'
-excerpt: 'The Effect Hook, or shorly useEffect(), lets you perform side effects in a React functional component. Dealing with fetch requests, looking to manipulating the DOM directly or maybe trying to make use of a timer function? This is where useEffect is your go-to choice.'
+excerpt: ' I Dont know what i write here'
 icon: 'smile'
 date: '2021-05-13T19:04:00+0000'
 ---
